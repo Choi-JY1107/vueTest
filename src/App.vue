@@ -6,6 +6,10 @@
 	<router-link to="/databinding/html">html</router-link> |
 	<router-link to="/databinding/input">input</router-link> |
 	<router-link to="/databinding/select">select</router-link> |
+	<router-link to="/databinding/check">checkbox</router-link> |
+	<router-link to="/databinding/radio">radio</router-link> |
+	<router-link to="/databinding/attr">attr</router-link> |
+	<router-link to="/databinding/list">list</router-link> |
   </nav>
   <router-view/>
 <!-- 이 부분이 동적으로 생성됨 -->
