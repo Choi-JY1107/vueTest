@@ -5,11 +5,19 @@
 	<router-link to="/databinding/string">string</router-link> |
 	<router-link to="/databinding/html">html</router-link> |
 	<router-link to="/databinding/input">input</router-link> |
-	<router-link to="/databinding/select">select</router-link> |
+	<router-link to="/databinding/select">select</router-link>
+	<br>
 	<router-link to="/databinding/check">checkbox</router-link> |
 	<router-link to="/databinding/radio">radio</router-link> |
 	<router-link to="/databinding/attr">attr</router-link> |
 	<router-link to="/databinding/list">list</router-link> |
+	<router-link to="/databinding/class">class</router-link> |
+	<router-link to="/databinding/style">style</router-link>
+	<br>
+	<br>
+	<router-link to="/event/click">click</router-link> |
+	<router-link to="/event/change">change</router-link> |
+	<router-link to="/event/key">key</router-link> |
   </nav>
   <router-view/>
 <!-- 이 부분이 동적으로 생성됨 -->
